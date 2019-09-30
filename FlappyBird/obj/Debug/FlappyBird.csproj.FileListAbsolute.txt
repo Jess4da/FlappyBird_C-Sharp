@@ -1,0 +1,14 @@
+G:\Team Drives\Adv. ComPro #6\Assignment 1 [Flappy Bird]\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojResolveAssemblyReference.cache
+G:\Team Drives\Adv. ComPro #6\Assignment 1 [Flappy Bird]\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+G:\Team Drives\Adv. ComPro #6\Assignment 1 [Flappy Bird]\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+G:\Team Drives\Adv. ComPro #6\Assignment 1 [Flappy Bird]\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+G:\Team Drives\Adv. ComPro #6\Assignment 1 [Flappy Bird]\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+G:\Team Drives\Adv. ComPro #6\Assignment 1 [Flappy Bird]\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+G:\Team Drives\Adv. ComPro #6\Assignment 1 [Flappy Bird]\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+N:\Team Drives\Adv. ComPro #6\Assignment 1 [Flappy Bird]\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+N:\Team Drives\Adv. ComPro #6\Assignment 1 [Flappy Bird]\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+N:\Team Drives\Adv. ComPro #6\Assignment 1 [Flappy Bird]\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+N:\Team Drives\Adv. ComPro #6\Assignment 1 [Flappy Bird]\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojResolveAssemblyReference.cache
+N:\Team Drives\Adv. ComPro #6\Assignment 1 [Flappy Bird]\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+N:\Team Drives\Adv. ComPro #6\Assignment 1 [Flappy Bird]\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+N:\Team Drives\Adv. ComPro #6\Assignment 1 [Flappy Bird]\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
